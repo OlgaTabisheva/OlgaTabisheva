@@ -28,7 +28,7 @@ Skills:   REACT / JS / HTML / CSS/ Back-End Basics ( Node.js)/BEM/Adaptive and R
 5) https://github.com/OlgaTabisheva/express-mesto-gha
 Работа с Node.js
 Работа с EditorConfig, ESLint, MongoDB, Postman.
-Создание контроллеров и роутов , обработка ошибок,
+Создание контроллеров и роутов , обработка ошибок.
 Регистрация и авторизация на бэкенде, валидация запросов.
 
 6) https://github.com/OlgaTabisheva/react-mesto-api-full
