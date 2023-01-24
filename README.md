@@ -1,4 +1,4 @@
-### Hi there 👋, my name is OLGA
+### Hi there 👋, my name is Olga.
 #### I am  junior front-end developer (looking for a job)
 ![I am  junior front-end developer (looking for a job)](https://img.freepik.com/free-photo/top-view-arrangement-of-natural-material-stationery_23-2148898233.jpg?w=1480&t=st=1674575657~exp=1674576257~hmac=95c7bcb7e96058846f0928e059a2ba59d8f4b7627d0007870eb1ff4d8891dfde)
 
@@ -14,16 +14,16 @@ Skills:   REACT / JS / HTML / CSS/ Back-End Basics ( Node.js)/BEM/Adaptive and R
 
 Практические работы:
 1) https://github.com/OlgaTabisheva/how-to-learn
-( верстка, БЭМ, шрифты, анимация, git)
+Верстка, БЭМ, шрифты, анимация, git.
 
 2) https://github.com/OlgaTabisheva/russian-travel
-( адаптивная верстка, grid, flex)
+Адаптивная верстка, grid, flex.
 
 3) https://github.com/OlgaTabisheva/mesto
-(JS: popap , добавление, удаление карточек, лайки, обработка событий, форма редактирования, валидация форм, сборка webpack и пр.)
+JS: popap , добавление, удаление карточек, лайки, обработка событий, форма редактирования, валидация форм, сборка webpack и пр.
 
 4) https://github.com/OlgaTabisheva/mesto-react
-портирование на React , регистрация, авторизация пользователей
+Портирование на React , регистрация, авторизация пользователей.
 
 5) https://github.com/OlgaTabisheva/express-mesto-gha
 Работа с Node.js
@@ -33,5 +33,5 @@ Skills:   REACT / JS / HTML / CSS/ Back-End Basics ( Node.js)/BEM/Adaptive and R
 
 6) https://github.com/OlgaTabisheva/react-mesto-api-full
 Объединение фронтенд и бэкенд части приложения.
-Настройка и деплой бэкенда
+Настройка и деплой бэкенда.
 (Создание домена, выпуск сертификатов(https)).
