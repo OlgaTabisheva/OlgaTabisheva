@@ -12,7 +12,7 @@
 
 - 🌱 В данный момент изучаю Typescript и Redux Toolkit.
 
-Мой pet-проект : https://demoshop.746746746.xyz/ 
+Моё портфолио: [https://portfolio.746746746.xyz/](https://portfolio.746746746.xyz/)
 
 
 
