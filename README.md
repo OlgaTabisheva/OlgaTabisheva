@@ -2,7 +2,7 @@
 #### I am looking for a job as a frontend developer.
 ![I am looking for a job as a frontend developer.](https://img.freepik.com/free-photo/office-stuff-and-potted-flowers-on-table_23-2148225480.jpg?w=1380&t=st=1690447740~exp=1690448340~hmac=7e7eb05f42744f5f72705bf8aded62231da7d94c1e3f1f380b74eda92c4a0c5a)
 
-Front-end developer with 1+ year non-commercial development experience.
+Frontend developer with 1+ year non-commercial development experience.
 
 Developed educational projects, pet projects,learning new skills and looking for new experience.
 
