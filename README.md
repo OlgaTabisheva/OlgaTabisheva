@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Olga
 #### I am looking for a job as a frontend developer.
-![I am looking for a job as a frontend developer.](https://img.freepik.com/free-photo/office-stuff-and-potted-flowers-on-table_23-2148225480.jpg?w=1380&t=st=1690447740~exp=1690448340~hmac=7e7eb05f42744f5f72705bf8aded62231da7d94c1e3f1f380b74eda92c4a0c5a)
+![I am looking for a job as a frontend developer.](https://images.pexels.com/photos/4559555/pexels-photo-4559555.jpeg)
 
 Frontend developer with 1+ year non-commercial development experience.
 
