@@ -11,9 +11,9 @@ After graduating from university, I worked as a design engineer for a long time,
 ## PORTFOLIO: [https://portfolio.746746746.xyz/](https://portfolio.746746746.xyz/)
 
 ## SKILLS:  
-### CSS
+### CSS (SCSS)
 ### HTML
-### JavaScript
+### JavaScript (Typescript)
 ### React.JS ( Redux)
 ### Recponcible UI Design
 ### RESTful WebServices
