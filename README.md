@@ -11,13 +11,17 @@ After graduating from university, I worked as a design engineer for a long time,
 ## PORTFOLIO: [https://portfolio.746746746.xyz/](https://portfolio.746746746.xyz/)
 
 ## SKILLS:  
-### CSS (SCSS)
-### HTML
-### JavaScript (Typescript)
+### Typescript
+### Next.js
+### Hasura/nHost
+### Firebase
 ### React.JS ( Redux)
 ### Recponcible UI Design
 ### RESTful WebServices
+### CSS (SCSS, tailwind)
 ### Git
+### and more
+
 
 - 🔭 I’m currently working on I am currently working on a project with hasura, apollo, graphql.
   
