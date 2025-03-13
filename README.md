@@ -2,10 +2,7 @@
 #### I am looking for a job as a frontend developer.
 <img src="https://images.pexels.com/photos/4402584/pexels-photo-4402584.jpeg" width="600" height="400">
 
-I have over 2 years of frontend development experience.
-
-Throughout my journey as a frontend developer, I have consistently sought opportunities to learn and grow. This has led me to participate in a range of internships and startup ventures, both in the past and present.
-Developed educational projects and personal projects, continuously learning new skills and seeking new experiences.
+I have over 2 years of frontend development experience. To enhance my frontend skills, I have actively engaged in multiple internships and startup projects, and I continue to do so.
 
 After graduating from university, I worked as a design engineer for a long time but decided to change my career path.
 
