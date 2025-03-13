@@ -1,12 +1,14 @@
 ### Hi there 👋, my name is Olga
 #### I am looking for a job as a frontend developer.
-![I am looking for a job as a frontend developer.](https://images.pexels.com/photos/4559555/pexels-photo-4559555.jpeg)
+<img src="https://images.pexels.com/photos/4402584/pexels-photo-4402584.jpeg" width="600" height="400">
 
-Frontend developer with 1+ year non-commercial development experience.
+I have over 2 years of frontend development experience.
 
-Developed educational projects, pet projects,learning new skills and looking for new experience.
+Throughout my journey as a frontend developer, I have consistently sought opportunities to learn and grow. This has led me to participate in a range of internships and startup ventures, both in the past and present.
+Developed educational projects and personal projects, continuously learning new skills and seeking new experiences.
 
-After graduating from university, I worked as a design engineer for a long time, but decided to change my profession.
+After graduating from university, I worked as a design engineer for a long time but decided to change my career path.
+
 
 ## PORTFOLIO: [https://portfolio.746746746.xyz/](https://portfolio.746746746.xyz/)
 
@@ -16,14 +18,14 @@ After graduating from university, I worked as a design engineer for a long time,
 ### Hasura/nHost
 ### Firebase
 ### React.JS ( Redux)
-### Recponcible UI Design
+### Responsive UI Design
 ### RESTful WebServices
 ### CSS (SCSS, tailwind)
 ### Git
 ### and more
 
 
-- 🔭 I’m currently working on I am currently working on a project with hasura, apollo, graphql.
+- 🔭 I am currently working on a project using Hasura, Apollo, and GraphQL and node.js.
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/OlgaTabisheva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/olga-tabisheva-67541b258//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/OlgaTabisheva/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio.746746746.xyz/)  
 
